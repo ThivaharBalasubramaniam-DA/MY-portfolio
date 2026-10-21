@@ -1,9 +1,7 @@
 # Thivahar Balasubramaniam — Portfolio Website
 
-> **Organization**: Orbytes Global Solutions  
-> **Owner**: Logaraj S  
-> **Created at**: 2026-10-07  
-> **Description**: Production-ready personal portfolio website for Thivahar Balasubramaniam (Data Analyst & Software Engineer).
+
+> **Description**: Personal portfolio website for Thivahar Balasubramaniam — aspiring Data Analyst & Data Scientist, built with React and Vite, deployed on GitHub Pages.
 
 ---
 
