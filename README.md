@@ -1,6 +1,4 @@
 # Thivahar Balasubramaniam — Portfolio Website
-
-
 > **Description**: Personal portfolio website for Thivahar Balasubramaniam — aspiring Data Analyst & Data Scientist, built with React and Vite, deployed on GitHub Pages.
 
 ---
